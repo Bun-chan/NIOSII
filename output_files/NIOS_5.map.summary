@@ -1,0 +1,16 @@
+Analysis & Synthesis Status : Successful - Tue Jan 10 20:26:57 2023
+Quartus Prime Version : 18.0.0 Build 614 04/24/2018 SJ Lite Edition
+Revision Name : NIOS_5
+Top-level Entity Name : DE10_LITE_Golden_Top
+Family : MAX 10
+Total logic elements : 10,232
+    Total combinational functions : 7,711
+    Dedicated logic registers : 6,420
+Total registers : 6420
+Total pins : 185
+Total virtual pins : 0
+Total memory bits : 449,496
+Embedded Multiplier 9-bit elements : 6
+Total PLLs : 1
+UFM blocks : 1
+ADC blocks : 1
